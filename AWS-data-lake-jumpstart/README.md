@@ -15,6 +15,8 @@ This project demonstrates how to use various AWS services to create a scalable, 
 
 ## Lab 1 – Discovering and Cataloging Your Data
 
+![alt text](crawler.png)
+
 ### Overview
 In this lab, I used AWS Glue to create a Glue Crawler that automatically discovers the schema of data stored in Amazon S3. The crawler registered the discovered information in the AWS Glue Data Catalog, allowing AWS Glue and other AWS services like Amazon Athena to query and process the data stored in S3.
 
