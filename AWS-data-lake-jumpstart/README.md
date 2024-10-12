@@ -4,6 +4,8 @@ In this workshop, I built an end-to-end serverless data pipeline using AWS servi
 
 ## Project Overview
 
+<img src="dataPipeline.png" alt="Picture data pipeline" height="300">
+
 This project demonstrates how to use various AWS services to create a scalable, serverless data lake architecture.
 
 ## AWS Services Used:
